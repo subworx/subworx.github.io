@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: Was Matze macht
 description: Dies und das
 markdown: GFM
