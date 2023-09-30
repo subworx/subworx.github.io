@@ -23,7 +23,7 @@ All kinds of links for my future reference.
 
 [Simple Ikea Lack Enclosure (website)](https://blog.prusa3d.com/cheap-simple-3d-printer-enclosure_7785/) - #TODO
 
-[Simple Ikea Lack Enclosure with MMU2 support (website)](https://blog.prusa3d.com/mmu2s-printer-enclosure_30215/) and you can reuse the glass from v1. If I get a MMU3 before building this, [Door Handles (model link)](https://www.printables.com/model/5157-door-handles-for-prusa-printer-enclosure-v2) are needed.
+[Simple Ikea Lack Enclosure with MMU2 support (website)](https://blog.prusa3d.com/mmu2s-printer-enclosure_30215/) and you can reuse the glass from v1. If I get a MMU3 before building this, a) [Door Handles (model link)](https://www.printables.com/model/5157-door-handles-for-prusa-printer-enclosure-v2) are needed because b) v2 has different size windows (but comes with extensions for v1 windows)
 
 Input Shaping on the MK3S:
 
