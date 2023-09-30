@@ -37,6 +37,9 @@ Input Shaping on the MK3S:
 
 ["Best Prusa MK3s Upgrades/Mods" (website)](https://all3dp.com/2/best-prusa-i3-mk3s-plus-upgrades-mods/)
 
+[Basic Tools and supplies (website)](https://muppetlabs.co/3dprinting_tools.html)
+
+
 # <a name="models">Models</a>
 [Fan Filtering Unit](https://www.thingiverse.com/thing:4146142) to attach to IKEA or original enclosure
 
