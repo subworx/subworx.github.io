@@ -50,6 +50,9 @@ Input Shaping on the MK3S:
 
 [LED Bar Holder](https://www.thingiverse.com/thing:2856776) - unlikely due to the IKEA Lack case
 
+[Lazy Susan](https://www.printables.com/model/35367-spinning-table-lazy-susan)
+
+
 # <a name="resources">Resources</a>
 
 [FluiddPI (GitHub)](https://github.com/fluidd-core/FluiddPI) to install Klipper, Moonraker and Fluidd on a Raspberry Pi. Superseded by [KIAUH (GitHub)](https://github.com/dw-0/kiauh).
