@@ -55,6 +55,9 @@ Input Shaping on the MK3S:
 
 [Lazy Susan](https://www.printables.com/model/35367-spinning-table-lazy-susan)
 
+[Gridfinity 1x1 Nozzle Holder x16](https://thangs.com/designer/Kepwell/3d-model/Gridfinity%20printer%20nozzle%20box-208722)
+
+[Gridfinity 3D Printing Bundle for Nerds](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741)
 
 # <a name="resources">Resources</a>
 
