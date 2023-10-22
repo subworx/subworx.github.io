@@ -61,6 +61,8 @@ Input Shaping on the MK3S:
 
 [Gridfinity 3D Printing Bundle for Nerds](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741)
 
+[Torque Wrench Handles](https://www.printables.com/model/24539-torque-wrench-handles-from-10nm-up-to-30nm)
+
 # <a name="resources">Resources</a>
 
 [FluiddPI (GitHub)](https://github.com/fluidd-core/FluiddPI) to install Klipper, Moonraker and Fluidd on a Raspberry Pi. Superseded by [KIAUH (GitHub)](https://github.com/dw-0/kiauh).
