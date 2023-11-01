@@ -67,3 +67,4 @@ Input Shaping on the MK3S:
 
 [FluiddPI (GitHub)](https://github.com/fluidd-core/FluiddPI) to install Klipper, Moonraker and Fluidd on a Raspberry Pi. Superseded by [KIAUH (GitHub)](https://github.com/dw-0/kiauh).
 
+[3D Chameleon - Automatic Color Changer](https://www.3dchameleon.com/) an addon like Bambu AMS
