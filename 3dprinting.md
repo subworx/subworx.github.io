@@ -67,6 +67,8 @@ Input Shaping on the MK3S:
 
 [Torque Wrench Handles](https://www.printables.com/model/24539-torque-wrench-handles-from-10nm-up-to-30nm)
 
+[Bag Seal Clips](https://www.printables.com/model/29989-bagsealclips/files)
+
 # <a name="resources">Resources</a>
 
 [FluiddPI (GitHub)](https://github.com/fluidd-core/FluiddPI) to install Klipper, Moonraker and Fluidd on a Raspberry Pi. Superseded by [KIAUH (GitHub)](https://github.com/dw-0/kiauh).
