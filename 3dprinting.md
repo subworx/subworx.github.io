@@ -41,6 +41,8 @@ Input Shaping on the MK3S:
 
 [Arc Overhangs (video)](https://www.youtube.com/watch?v=TGa_KvKLDR8)
 
+[Transparent prints (website)](https://www.cnckitchen.com/blog/transparent-fdm-3d-prints-are-clearly-stronger)
+
 
 # <a name="models">Models</a>
 [Fan Filtering Unit](https://www.thingiverse.com/thing:4146142) to attach to IKEA or original enclosure
@@ -70,3 +72,5 @@ Input Shaping on the MK3S:
 [FluiddPI (GitHub)](https://github.com/fluidd-core/FluiddPI) to install Klipper, Moonraker and Fluidd on a Raspberry Pi. Superseded by [KIAUH (GitHub)](https://github.com/dw-0/kiauh).
 
 [3D Chameleon - Automatic Color Changer](https://www.3dchameleon.com/) an addon like Bambu AMS
+
+[Hotend Flow Tester Generator(website)](https://hotend-flow-tester.netlify.app/)
