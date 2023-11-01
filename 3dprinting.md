@@ -39,6 +39,8 @@ Input Shaping on the MK3S:
 
 [Basic Tools and supplies (website)](https://muppetlabs.co/3dprinting_tools.html)
 
+[Arc Overhangs (video)](https://www.youtube.com/watch?v=TGa_KvKLDR8)
+
 
 # <a name="models">Models</a>
 [Fan Filtering Unit](https://www.thingiverse.com/thing:4146142) to attach to IKEA or original enclosure
