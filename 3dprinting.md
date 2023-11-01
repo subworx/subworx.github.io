@@ -73,4 +73,5 @@ Input Shaping on the MK3S:
 
 [3D Chameleon - Automatic Color Changer](https://www.3dchameleon.com/) an addon like Bambu AMS
 
-[Hotend Flow Tester Generator(website)](https://hotend-flow-tester.netlify.app/)
+[Hotend Flow Tester Generator (website)](https://hotend-flow-tester.netlify.app/)
+
