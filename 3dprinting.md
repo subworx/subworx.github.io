@@ -73,6 +73,8 @@ Input Shaping on the MK3S:
 
 [Stress free first layer calibration](https://www.printables.com/model/251587-stress-free-first-layer-calibration-in-less-than-5)
 
+[Xiaomi Electric Precision Screwdriver / Wowstick Microbit (4mm Hex Shank) Drill Bit Holders](https://www.printables.com/model/642455-xiaomi-electric-precision-screwdriver-wowstick-mic)
+
 # <a name="resources">Resources</a>
 
 [FluiddPI (GitHub)](https://github.com/fluidd-core/FluiddPI) to install Klipper, Moonraker and Fluidd on a Raspberry Pi. Superseded by [KIAUH (GitHub)](https://github.com/dw-0/kiauh).
