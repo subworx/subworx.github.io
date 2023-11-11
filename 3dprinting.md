@@ -75,6 +75,8 @@ Input Shaping on the MK3S:
 
 [Xiaomi Electric Precision Screwdriver / Wowstick Microbit (4mm Hex Shank) Drill Bit Holders](https://www.printables.com/model/642455-xiaomi-electric-precision-screwdriver-wowstick-mic)
 
+[MK3S Side light, compatible with dual light](https://www.printables.com/model/490650-side-led-light-bar-prusa-i3-mk3)
+
 # <a name="resources">Resources</a>
 
 [FluiddPI (GitHub)](https://github.com/fluidd-core/FluiddPI) to install Klipper, Moonraker and Fluidd on a Raspberry Pi. Superseded by [KIAUH (GitHub)](https://github.com/dw-0/kiauh).
