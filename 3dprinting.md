@@ -71,6 +71,8 @@ Input Shaping on the MK3S:
 
 [Complete 3D printer test](https://www.printables.com/model/367266-50-reduced-print-time-and-plastic-separate-models)
 
+[Stress free first layer calibration](https://www.printables.com/model/251587-stress-free-first-layer-calibration-in-less-than-5)
+
 # <a name="resources">Resources</a>
 
 [FluiddPI (GitHub)](https://github.com/fluidd-core/FluiddPI) to install Klipper, Moonraker and Fluidd on a Raspberry Pi. Superseded by [KIAUH (GitHub)](https://github.com/dw-0/kiauh).
