@@ -43,6 +43,7 @@ Input Shaping on the MK3S:
 
 [Transparent prints (website)](https://www.cnckitchen.com/blog/transparent-fdm-3d-prints-are-clearly-stronger)
 
+[Empty spool weights (website)](https://3dprintingwiki.mywikis.wiki/wiki/Spool_weight)
 
 # <a name="models">Models</a>
 [Fan Filtering Unit](https://www.thingiverse.com/thing:4146142) to attach to IKEA or original enclosure
