@@ -45,6 +45,8 @@ Input Shaping on the MK3S:
 
 [Empty spool weights (website)](https://3dprintingwiki.mywikis.wiki/wiki/Spool_weight)
 
+[Rescue Failed Prints (video)](https://www.youtube.com/watch?v=-wjE8eDiKWg)
+
 # <a name="models">Models</a>
 [Fan Filtering Unit](https://www.thingiverse.com/thing:4146142) to attach to IKEA or original enclosure
 
